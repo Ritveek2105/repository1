@@ -9,3 +9,4 @@ Instructions:
 - squeeze lime
 - add salt
 - and mix well
+- add a bit of spice
